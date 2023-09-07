@@ -1,58 +1,17 @@
-# Giovanni_Lopes.
-portfolio
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfólio de Giovanni Lopes</title>
-    <link rel="stylesheet" href="styles.css"> <!-- Link para seu arquivo CSS (opcional) -->
-</head>
-<body>
-    <header>
-        <h1>Giovanni Lopes</h1>
-        <p>Desenvolvedor JavaScript em busca de oportunidades</p>
-    </header>
+# Portfólio de Giovanni Lopes
 
-    <section id="about">
-        <h2>Sobre Mim</h2>
-        <p>Sou um entusiasta do desenvolvimento JavaScript com uma forte paixão por aprender e contribuir em equipes de desenvolvimento. Estou animado para me juntar a uma equipe talentosa e crescer como desenvolvedor.</p>
-    </section>
+## Sobre Mim
+Olá! Sou Giovanni Lopes, um programador de apenas 14 anos de idade. Apesar da minha idade, estou determinado a superar muitos programadores profissionais. Possuo conhecimento sólido em JavaScript e um profundo entendimento dos programas por trás do Minecraft, o que me permite criar mods e personalizações para a comunidade Minecraft.
 
-    <section id="skills">
-        <h2>Habilidades Técnicas</h2>
-        <ul>
-            <li>JavaScript (ES6+)</li>
-            <li>HTML5 / CSS3</li>
-            <li>React</li>
-            <li>Node.js</li>
-            <li>Git / GitHub</li>
-            <li>Trabalho em equipe</li>
-            <li>Resolução de problemas</li>
-            <li>Comunicação eficaz</li>
-        </ul>
-    </section>
+Estou animado para começar minha jornada como parte de uma equipe de desenvolvimento e contribuir com meu conhecimento e paixão.
 
-    <section id="contact">
-        <h2>Contato</h2>
-        <p>E-mail: <a href="mailto:giolozbr@gmail.com">giolozbr@gmail.com</a></p>
-        <!-- Formulário de Contato  -->
-        <form action="processar_formulario.php" method="POST">
-            <label for="nome">Nome:</label>
-            <input type="text" id="nome" name="nome" required>
+## Habilidades
+- **JavaScript:** Possuo experiência sólida em desenvolvimento em JavaScript e estou sempre aprendendo mais sobre as melhores práticas e tendências da linguagem.
+- **Programação no Minecraft:** Tenho conhecimento avançado dos programas e modificações por trás do Minecraft, permitindo-me criar experiências personalizadas.
 
-            <label for="email">E-mail:</label>
-            <input type="email" id="email" name="email" required>
+## Contato
+Quer bater um papo ou discutir oportunidades de trabalho? Estou sempre aberto para novas conexões e desafios emocionantes. Entre em contato comigo:
 
-            <label for="mensagem">Mensagem:</label>
-            <textarea id="mensagem" name="mensagem" rows="4" required></textarea>
+- **E-mail:** [giolozbr@gmail.com](mailto:giolozbr@gmail.com)
 
-            <button type="submit">Enviar Mensagem</button>
-        </form>
-    </section>
-
-    <footer>
-        <p>&copy; 2023 Giovanni Lopes. Todos os direitos reservados.</p>
-    </footer>
-</body>
-</html>
+© 2023 Giovanni Lopes. Todos os direitos reservados.
