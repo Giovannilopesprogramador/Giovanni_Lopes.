@@ -1,7 +1,7 @@
 # Portfólio de Giovanni Lopes
 
 ## Sobre Mim
-Olá! Sou Giovanni Lopes, um programador de apenas 14 anos de idade. Apesar da minha idade, estou determinado a superar muitos programadores profissionais. Possuo conhecimento sólido em JavaScript e um profundo entendimento dos programas por trás do Minecraft, o que me permite criar mods e personalizações para a comunidade Minecraft.
+Olá! Sou Giovanni Lopes, um programador de apenas 14 anos de idade. Apesar da minha idade, estou determinado a superar muitos programadores profissionais. Possuo conhecimento sólido em JavaScript e um profundo entendimento dos programas por trás do Minecraft, o que me permite criar mods e personalizações para a comunidade Minecraft. Além disso, tenho experiência em proxy avançado.
 
 Estou animado para começar minha jornada como parte de uma equipe de desenvolvimento e contribuir com meu conhecimento e paixão.
 
@@ -23,6 +23,17 @@ Embora eu ainda não tenha tido a oportunidade de aplicar meu conhecimento em si
 - **Conhecimento em Spigot:** Aprendi sobre a plataforma Spigot e suas possibilidades para criação de plugins e modificações no Minecraft.
 
 - **Conhecimento em Gradle/Maven:** Estudei as ferramentas Gradle e Maven e compreendo como elas são utilizadas para gerenciar dependências e automatizar tarefas de construção em projetos.
+
+## Experiências Adicionais
+Embora eu ainda não tenha trabalhado diretamente com essas tecnologias, adquiri conhecimento teórico sobre as seguintes áreas:
+
+- **Experiência com Bungeecord:** Estudei sobre o Bungeecord, uma plataforma que permite criar servidores proxy e interconectar servidores de Minecraft. Tenho experiência em proxy avançado.
+
+- **Experiência com animações:** Aprendi sobre animações e como elas podem ser usadas para melhorar a experiência do usuário em sites e aplicativos.
+
+- **Inglês Básico ou Superior:** Possuo habilidades básicas ou superiores em inglês, o que me permite comunicar-me efetivamente em um ambiente de programação global.
+
+- **Experiência com livrarias comumente utilizadas:** Tenho conhecimento sobre livrarias comuns usadas no desenvolvimento, como inventory-framework e Lombok, e compreendo como elas podem facilitar o desenvolvimento de projetos.
 
 ## Contato
 Quer bater um papo ou discutir oportunidades de trabalho? Estou sempre aberto para novas conexões e desafios emocionantes. Entre em contato comigo:
