@@ -10,7 +10,7 @@ Estou animado para começar minha jornada como parte de uma equipe de desenvolvi
 - **Programação no Minecraft:** Tenho conhecimento avançado dos programas e modificações por trás do Minecraft, permitindo-me criar experiências personalizadas.
 
 ## Contato
-Quer bater um papo ou discutir oportunidades de trabalho? Estou sempre aberto para novas conexões e desafios emocionantes. Entre em contato comigo:
+Quer bater um papo ou trabalhar juntos em um projeto emocionante? Estou sempre aberto para novas oportunidades. Entre em contato comigo:
 
 - **E-mail:** [giolozbr@gmail.com](mailto:giolozbr@gmail.com)
 
